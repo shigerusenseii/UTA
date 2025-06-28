@@ -1,4 +1,5 @@
 # UTA
+https://i.ibb.co/Q3kg68S6/Gemini-Generated-Image-jhtm46jhtm46jhtm.png
 ## Ultra Secure Hybrid File Encryption Tool
 
 ![Encryption Icon](https://img.shields.io/badge/Encryption-AES256%20%2B%20RSA4096-blueviolet?style=for-the-badge&logo=keys)
