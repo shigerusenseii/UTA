@@ -32,6 +32,10 @@ Whether you need to secure a single document or an entire directory, UTA File En
 
 ## 🚀 Getting Started
 
+### In Windows
+
+**Required: [Microsoft Visual C++ 2019 x64 Redistributable](https://aka.ms/vs/16/release/VC_redist.x64.exe)**
+
 ### Prerequisites
 
 Before you can run the UTA File Encryptor, you need to have Python 3.x installed on your system.
