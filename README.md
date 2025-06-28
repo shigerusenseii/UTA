@@ -49,7 +49,7 @@ The application also relies on the `cryptography` library.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/shigerusenseii/UTA.git](https://github.com/shigerusenseii/UTA.git)
+    git clone https://github.com/shigerusenseii/UTA.git
     cd UTA
     ```
 
