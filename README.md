@@ -1,5 +1,5 @@
 # UTA
-![Icon](https://i.hizliresim.com/reh1los.png)
+![Icon](https://iili.io/FR55Gcv.md.png)
 ## Ultra Secure Hybrid File Encryption Tool
 
 ![Encryption Icon](https://img.shields.io/badge/Encryption-AES256%20%2B%20RSA4096-blueviolet?style=for-the-badge&logo=keys)
